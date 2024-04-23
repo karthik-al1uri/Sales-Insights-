@@ -1,4 +1,4 @@
-<img width="927" alt="image" src="https://github.com/karthik-al1uri/Sales-Insights-/assets/105301506/c6b7efb7-2bbc-4112-ba59-8d165614ca61"># Sales Insights PowerBI Project
+# Sales Insights PowerBI Project
 
 Welcome to the Sales Insights PowerBI project repository! This project is designed to provide comprehensive insights into sales data, helping users analyze customer behavior, track market trends, and evaluate product performance. The dataset includes information on customers, dates, markets, products, and transactions.
 
@@ -35,7 +35,6 @@ Feel free to customize the reports according to your specific requirements. You 
 
 If you'd like to contribute to this project or have any suggestions for improvement, please feel free to submit a pull request or open an issue. Your feedback is highly appreciated!
 
-## License
 
-This project is licensed under the
+
 <img width="927" alt="image" src="https://github.com/karthik-al1uri/Sales-Insights-/assets/105301506/0f2399c9-c5c4-4bf3-95b7-95572f144580">
